@@ -1,0 +1,11 @@
+
+.navbar-nav
+{
+    margin-left: 1000px;
+}
+
+#naveffect:hover
+{   
+    box-shadow: 5px 5px blue;
+
+}

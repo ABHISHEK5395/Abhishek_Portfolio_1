@@ -1,0 +1,152 @@
+#srdv
+{
+    margin-top: -360px;
+    margin-left: 500px;
+    color: lightseagreen;
+}
+
+.section2
+{
+    background-color:darkslategrey;
+    margin-top: 500xpx;
+    height: 400px;
+    color:lightblue;
+}
+
+.abt
+{   
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+#aboutcnt
+{
+    margin-top: -58px;
+    margin-left: 500px;
+}
+
+
+#crdlng
+{
+    margin-top: 30px;
+}
+
+.bckfooter
+{
+    background-color:#E6E6FA;
+}
+
+#crdht
+{
+    height: 250px;
+    
+}
+.icon1
+{
+    background-color:lightseagreen;
+    height: 100px;
+    width: 100px;
+    margin-left: 110px;
+    border-radius: 50%;
+    margin-top: -300px;
+}
+
+.icon2
+{
+    background-color: lightseagreen;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    margin-top: -355px;
+    margin-left: 110px;
+}
+.icon4
+{
+    background-color: lightseagreen;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    margin-top: -80px;
+    margin-left: 110px;
+}
+
+#icon3
+{
+    margin-top: -300px;
+    background-color: lightseagreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+
+}
+.icon5
+{
+    margin-top: -80px;
+    background-color: lightseagreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+.icon7
+{
+    background-color: lightseagreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -80px;
+}
+
+#iconf
+{
+    margin-top: 20px;
+}
+.bckedu
+{
+    background-color:#E6E6FA;
+    margin-top: -1555px;
+
+}
+
+.edupanel
+{
+    border-radius: 50px;
+    width: 1130px;
+    height: 70px;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+.edu{
+    margin-left: 700px;
+    margin-top: -55px;
+}
+.bckwht
+{
+    height: 70px;
+    border-radius:50px;
+    margin-top: 100px;
+}
+#eduicon1
+{
+    margin-left: 600px;
+    margin-top: -40px;
+}
+
+#crdpanel
+{
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+}
+#cardcnt
+{
+    margin-top: 70px;
+}
+#crdht1:hover
+{
+    box-shadow: 5px 5px 10px;
+    transform: translateY(-10px);
+} 

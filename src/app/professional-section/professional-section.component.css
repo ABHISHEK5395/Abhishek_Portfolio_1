@@ -1,0 +1,109 @@
+.progress-bar
+{
+    width: 100%;
+}
+.panel1
+{
+    padding: 100px;
+}
+
+meter{
+    width: 60%;
+}
+
+.skilldiv
+{
+    margin-left: 150px;
+    margin-top: 70px;
+    
+}
+.skills
+{
+    margin-left:100px;
+    margin-top: -38px;
+}
+
+.exp
+{
+    margin-top: -40px;   
+    text-align: center;
+}
+
+.ach
+{
+    margin-top: -40px;
+    margin-left: 70px;
+}
+.prj
+{
+    margin-top: -38px;
+    margin-left:60px; 
+}
+.wshp
+{
+    margin-left: 100px;
+    margin-top: -33px;
+}
+.cert
+{
+    margin-left: 100px;
+    margin-top: -32px;
+}
+
+#hd
+{ 
+    margin-top: 50px;
+}
+#bg
+{
+    background-color: #D8BFD8;
+}
+
+.divbg
+{
+    background-color:#E6E6FA;
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.wrkpanel
+{
+    width: 1100px;
+    margin-left: 240px;
+    margin-top:-2270px;
+}
+
+.panel
+{
+    margin-top: 100px;  
+}
+.row:hover
+{
+    box-shadow: 5px 5px 10px;
+    transform: translateY(-10px);
+}
+
+
+.col-md-7
+{
+    background-color: white;
+}
+.wrkdetails
+{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.achdetails
+{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+section{
+    color: green;
+}
+
+li{
+    color: green;
+}

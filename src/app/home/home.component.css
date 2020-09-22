@@ -1,0 +1,67 @@
+.homeimg
+{
+  width: 1600px;
+  height: 700px;
+}
+
+div {
+  width: 100px;
+  height: 50px;
+  background-color: lightseagreen;
+  font-weight: bold;
+  position: relative;
+  animation: mymove 5s forwards;
+}
+
+#div1 {
+  animation-timing-function: linear;
+   margin-top: -400px;
+   border-radius:360px;
+   width:180px;
+   text-align:center;
+     }
+#div2 {
+  animation-timing-function: ease;
+  background-color:#D8BFD8;
+  border-radius:360px;
+  text-align:center;
+  width: 120px;
+      }
+
+#div3 {
+  animation-timing-function: ease-in;
+  border-radius:360px;
+  width:200px;
+  text-align:center;
+      }
+
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+
+.arrow1
+{
+  position: relative;
+  animation: moveup 5s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+.arrow2
+{
+  position: relative;
+  animation: moveup 5s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+.arrowsection
+{
+  margin-left: 1120px;
+  margin-top: -460px;
+}
+
+@keyframes moveup {
+  from {bottom: 0px;}
+  to {top: 100px;}
+}
